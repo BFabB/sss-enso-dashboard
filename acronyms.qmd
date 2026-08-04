@@ -1,0 +1,22 @@
+---
+title: "Acronyms"
+---
+
+| Acronym | Definition |
+|---|---|
+| C3S | Copernicus Climate Change Service |
+| CATDS | Centre Aval de Traitement des Données SMOS |
+| CCI+SSS | ESA Climate Change Initiative Sea Surface Salinity project |
+| CDR | Climate Data Record |
+| ECMWF | European Centre for Medium-Range Weather Forecasts |
+| ENSO | El Niño–Southern Oscillation |
+| ESA | European Space Agency |
+| ICDR | Interim Climate Data Record |
+| MEI | Multivariate ENSO Index |
+| NRT | Near-real time |
+| pss | Practical Salinity Scale |
+| RONI | Relative Oceanic Niño Index |
+| SMAP | Soil Moisture Active Passive |
+| SMOS | Soil Moisture and Ocean Salinity |
+| SSS | Sea Surface Salinity |
+| SST | Sea Surface Temperature |

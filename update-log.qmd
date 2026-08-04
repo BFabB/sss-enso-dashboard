@@ -1,0 +1,21 @@
+---
+title: "Update log"
+---
+
+This page records monthly updates of the SSS-based ENSO demonstrator.
+
+| Page update | Latest SSS month | Main change |
+|---|---:|---|
+| {{< var page_update >}} | {{< var latest_sss_month >}} | Updated dashboard animations, salinity-based ENSO indicator, and comparison figures. |
+
+## Planned monthly update content
+
+Each monthly update should record:
+
+- latest SSS month available;
+- CCI+SSS product version;
+- latest SSS-index value;
+- change since previous month;
+- updated figures;
+- updated animation;
+- any methodological change.

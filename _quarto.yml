@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/**
+
+website:
+  title: "Watching ENSO Through Sea Surface Salinity"
+  site-url: "https://pagesperso.locean-ipsl.upmc.fr/smos/enso/"
+  navbar:
+    background: light
+    left:
+      - text: "Dashboard"
+        href: index.qmd
+      - text: "Methods"
+        href: methods.qmd
+      - text: "Acronyms"
+        href: acronyms.qmd
+      - text: "Update log"
+        href: update-log.qmd
+    right:
+      - text: "SMOS home"
+        href: "https://pagesperso.locean-ipsl.upmc.fr/smos/"
+      - text: "LOCEAN"
+        href: "https://www.locean-ipsl.upmc.fr/"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/custom.css
+    toc: true
+    toc-depth: 3
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,224 @@
+/* ============================================================
+   General boxes
+   ============================================================ */
+
+.status-box {
+  border-left: 5px solid #555;
+  background: #f3f3f3;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.latest-box {
+  border-left: 5px solid #1f77b4;
+  background: #eef6fb;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+}
+
+/* ============================================================
+   General media
+   ============================================================ */
+
+img {
+  max-width: 100%;
+}
+
+video {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  background: #000;
+}
+
+.dashboard-video {
+  width: 100%;
+  max-height: 88vh;
+  background: #000;
+  margin-top: 0.75rem;
+  margin-bottom: 2rem;
+  border: 1px solid #dddddd;
+}
+
+.highlight-video {
+  width: 100%;
+  max-height: 88vh;
+  background: #000;
+  margin-top: 0.75rem;
+  margin-bottom: 2rem;
+  border: 1px solid #dddddd;
+}
+
+/* ============================================================
+   Institutional logos
+   ============================================================ */
+
+.logo-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: 2rem;
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.logo-img {
+  width: auto;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo-esa {
+  max-height: 115px;
+}
+
+.logo-locean {
+  max-height: 90px;
+}
+
+.logo-acri {
+  max-height: 65px;
+}
+
+.c3s-logo-row {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.c3s-logo-img {
+  max-width: 95%;
+  max-height: 95px;
+  width: auto;
+}
+
+/* ============================================================
+   Note boxes and optional diagnostic layout
+   ============================================================ */
+
+.note-box {
+  border-left: 4px solid #999999;
+  background: #f7f7f7;
+  padding: 0.8rem 1rem;
+  margin: 0.8rem 0 1.5rem 0;
+  font-size: 0.95rem;
+  color: #444444;
+}
+
+.diagnostic-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.diagnostic-panel {
+  min-width: 0;
+}
+
+.diagnostic-panel h3 {
+  margin-top: 0;
+}
+
+.diagnostic-video {
+  width: 100%;
+  background: #000;
+}
+
+/* ============================================================
+   Responsive layout
+   ============================================================ */
+
+@media (max-width: 900px) {
+  .diagnostic-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 800px) {
+  .hero-map {
+    min-height: 340px;
+    padding: 2rem 1.2rem;
+    border-radius: 12px;
+  }
+}
+
+@media (max-width: 700px) {
+  .logo-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================================
+   Homepage hero
+   ============================================================ */
+
+.hero-map {
+  min-height: 460px;
+  margin: 1rem 0 2rem 0;
+  padding: 3rem 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  background-image: url("../figures/latest/map_total_sss_latest.png");
+  background-size: cover;
+  background-position: center;
+
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.hero-text {
+  max-width: 980px;
+  color: #fffaf0;
+  text-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.95),
+    0 0 24px rgba(0, 0, 0, 0.75);
+}
+
+.hero-text h2 {
+  font-size: clamp(2.8rem, 5.8vw, 5.2rem);
+  line-height: 1.05;
+  margin: 0 0 1rem 0;
+  font-weight: 750;
+  color: #fffaf0;
+  border-bottom: 2px solid rgba(255, 250, 240, 0.88);
+  padding-bottom: 0.8rem;
+}
+
+.hero-text h3 {
+  font-size: clamp(1.25rem, 2.3vw, 1.85rem);
+  line-height: 1.25;
+  margin: 0 0 1rem 0;
+  font-weight: 650;
+  color: #fffdf5;
+  text-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.95),
+    0 0 18px rgba(0, 0, 0, 0.75);
+}
+
+.hero-text p {
+  font-size: clamp(1.05rem, 1.5vw, 1.25rem);
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 600;
+  color: #fffdf5;
+  text-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.95),
+    0 0 18px rgba(0, 0, 0, 0.75);
+}
+
+.hero-text .anchorjs-link {
+  display: none !important;
+}
+
+.latest-meta {
+  margin-top: 0.9rem;
+}
