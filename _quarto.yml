@@ -6,7 +6,8 @@ project:
 
 website:
   title: "Watching ENSO Through Sea Surface Salinity"
-  site-url: "https://pagesperso.locean-ipsl.upmc.fr/smos/enso/"
+  # site-url: "https://pagesperso.locean-ipsl.upmc.fr/smos/enso/"
+  site-url: "https://bfabb.github.io/sss-enso-dashboard/"
   navbar:
     background: light
     left:

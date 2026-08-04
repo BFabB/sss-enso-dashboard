@@ -1,1 +1,1 @@
-Sitemap: https://pagesperso.locean-ipsl.upmc.fr/smos/enso/sitemap.xml
+Sitemap: https://bfabb.github.io/sss-enso-dashboard/sitemap.xml

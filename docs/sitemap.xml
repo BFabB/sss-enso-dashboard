@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pagesperso.locean-ipsl.upmc.fr/smos/enso/index.html</loc>
+    <loc>https://bfabb.github.io/sss-enso-dashboard/index.html</loc>
     <lastmod>2026-08-03T08:17:35.684Z</lastmod>
   </url>
   <url>
-    <loc>https://pagesperso.locean-ipsl.upmc.fr/smos/enso/acronyms.html</loc>
+    <loc>https://bfabb.github.io/sss-enso-dashboard/acronyms.html</loc>
     <lastmod>2026-08-02T11:12:27.792Z</lastmod>
   </url>
   <url>
-    <loc>https://pagesperso.locean-ipsl.upmc.fr/smos/enso/methods.html</loc>
+    <loc>https://bfabb.github.io/sss-enso-dashboard/methods.html</loc>
     <lastmod>2026-08-02T11:06:16.789Z</lastmod>
   </url>
   <url>
-    <loc>https://pagesperso.locean-ipsl.upmc.fr/smos/enso/update-log.html</loc>
+    <loc>https://bfabb.github.io/sss-enso-dashboard/update-log.html</loc>
     <lastmod>2026-08-03T07:54:02.663Z</lastmod>
   </url>
 </urlset>
