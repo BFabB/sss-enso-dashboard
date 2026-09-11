@@ -12,6 +12,11 @@ The displacement of the western Pacific fresh-pool edge provides an independent 
 :::
 :::
 
+::: {.cci-heritage}
+<span class="cci-wordmark" aria-label="CCI+SSS">CCI<span class="cci-plus">+</span>SSS</span>
+<span>Built on the scientific and data heritage of ESA CCI+ Sea Surface Salinity (CCI+SSS).</span>
+:::
+
 ::: {.status-box}
 **Status of this page**  
 This page is a scientific demonstrator. It shows how satellite sea surface salinity (SSS) can help monitor El Niño–Southern Oscillation (ENSO) from an independent ocean-salinity perspective.
