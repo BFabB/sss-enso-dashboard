@@ -41,7 +41,14 @@ The dashboard below focuses on the most recent three years, ending with the late
 <video class="dashboard-video" controls preload="none" poster="assets/figures/latest/dashboard_sss_enso_poster_latest.png">
   <source src="assets/animations/dashboard_sss_enso_latest.mp4" type="video/mp4">
   Your browser does not support the video tag.
+
 </video>
+
+## How does the current event compare with previous El Niños?
+
+The curves below track the same 34.8-pss fresh-pool boundary (S34.8), aligned on a common event-relative seasonal cycle to compare the timing, speed and maximum observed eastward extent of its displacement. This comparison does not directly measure overall ENSO strength.
+
+![Fresh-pool boundary trajectories during the 2009–10, 2015–16 and 2023–24 El Niños and the ongoing 2026 event. The 2009–10 and 2026 trajectories are truncated where observations are unavailable or not yet available.](assets/animations/s34p8_el_nino_event_trajectories_latest.gif){fig-alt="Longitude of the S34.8 fresh-pool boundary across four El Niño events, with a shared seasonal cycle progressing upward and partial records for 2009–10 and 2026."}
 
 # Key message
 
