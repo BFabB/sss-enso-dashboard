@@ -24,9 +24,11 @@ This page is a scientific demonstrator. It shows how satellite sea surface salin
 
 ::: {.latest-box}
 **Latest situation**  
-The SSS-based indicator now shows a marked eastward displacement of the equatorial western Pacific fresh-pool edge. The 34.8-pss fresh-pool edge has clearly crossed the El Niño longitude threshold and has moved farther east than the maximum reached during the 2024 El Niño. This indicates El Niño conditions from the salinity perspective.
+The SSS-based indicator shows that the eastern edge of the western equatorial Pacific fresh pool is continuing to move eastward. It is now clearly farther east than during the 2023–2024 El Niño and has reached a position comparable to the strong 2015–2016 event.
 
-This salinity-based evolution is consistent with the latest seasonal forecasts of the Copernicus Climate Change Service (C3S), which indicate that further strengthening of El Niño conditions is very likely.
+What is especially striking is the timing: in 2015–2016, a similar eastward extent was reached around December, near the usual seasonal peak of El Niño, whereas the ongoing event has already reached a similar position by August 2026. This points to a particularly rapid development of the salinity signal.
+
+This comparison should nevertheless be interpreted with appropriate caution.
 
 ::: {.latest-meta}
 **Latest SSS data:** {{< var latest_sss_data >}}<br>
@@ -84,6 +86,8 @@ MEI.v2 is a multivariate ENSO index combining oceanic and atmospheric informatio
 Niño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial Pacific.
 
 ![Comparison between the SSS-based indicator and Niño 3.4.](assets/figures/latest/sss_nino34_s34-8_latest.png){fig-alt="Comparison between the SSS-based ENSO indicator and Niño 3.4."}
+
+**Data availability note:** the NOAA Niño 3.4 series currently available here extends through 1 July 2026, so this comparison ends earlier than the MEI.v2 and RONI comparisons.
 
 ## RONI
 
