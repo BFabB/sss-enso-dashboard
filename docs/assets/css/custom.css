@@ -66,18 +66,11 @@ video {
   flex: 1 1 260px;
 }
 
-.cci-wordmark {
-  color: #003247;
-  font-size: 1.8rem;
-  font-weight: 750;
-  letter-spacing: -0.04em;
-  line-height: 1.2;
-  white-space: nowrap;
-}
-
-.cci-plus {
-  color: #00849b;
-  margin: 0 0.08em;
+.cci-logo {
+  display: block;
+  flex: 0 0 auto;
+  width: 132px;
+  height: auto;
 }
 
 .logo-row {

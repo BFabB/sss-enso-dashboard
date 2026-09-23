@@ -13,7 +13,7 @@ The displacement of the western Pacific fresh-pool edge provides an independent 
 :::
 
 ::: {.cci-heritage}
-<span class="cci-wordmark" aria-label="CCI+SSS">CCI<span class="cci-plus">+</span>SSS</span>
+<img src="assets/logos/CCI_SSS_Logo.png" alt="CCI+SSS Sea Surface Salinity logo" class="cci-logo">
 <span>Built on the scientific and data heritage of ESA CCI+ Sea Surface Salinity (CCI+SSS).</span>
 :::
 
