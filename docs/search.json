@@ -32,7 +32,7 @@
     "href": "index.html#niño-3.4",
     "title": "Dashboard: recent evolution",
     "section": "Niño 3.4",
-    "text": "Niño 3.4\nNiño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial Pacific.\n\n\n\nComparison between the SSS-based indicator and Niño 3.4.\n\n\nData availability note: the NOAA Niño 3.4 series currently available here extends through 1 July 2026, so this comparison ends earlier than the MEI.v2 and RONI comparisons."
+    "text": "Niño 3.4\nNiño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial Pacific.\n\n\n\nComparison between the SSS-based indicator and Niño 3.4.\n\n\nData availability note: the NOAA Niño 3.4 series currently available here extends through 1 July 2026, so this comparison ends earlier than the MEI.v2 and RONI comparisons.\n\nC3S Niño 3.4\nThis comparison uses a Niño 3.4 SST index derived directly from the Copernicus Climate Change Service (C3S) SST anomaly dataset, using a fixed 1991–2020 climatology.\nThe C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator. The comparison uses exact date matching, without interpolation or temporal shifting.\n\n\n\nComparison between the SSS-based indicator and the C3S-derived Niño 3.4 SST index."
   },
   {
     "objectID": "index.html#roni",

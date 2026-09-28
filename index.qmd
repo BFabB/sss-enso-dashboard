@@ -89,6 +89,14 @@ Niño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial 
 
 **Data availability note:** the NOAA Niño 3.4 series currently available here extends through 1 July 2026, so this comparison ends earlier than the MEI.v2 and RONI comparisons.
 
+### C3S Niño 3.4
+
+This comparison uses a Niño 3.4 SST index derived directly from the **Copernicus Climate Change Service (C3S) SST anomaly dataset**, using a fixed 1991–2020 climatology.
+
+The C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator. The comparison uses exact date matching, without interpolation or temporal shifting.
+
+![Comparison between the SSS-based indicator and the C3S-derived Niño 3.4 SST index.](assets/figures/latest/sss_c3s_nino34_1st15th_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based S34.8 ENSO indicator and a Niño 3.4 SST index derived from the Copernicus Climate Change Service SST anomaly dataset."}
+
 ## RONI
 
 RONI is a relative Niño 3.4 index designed to account for the broader tropical warming background.
