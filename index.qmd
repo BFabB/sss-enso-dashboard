@@ -91,7 +91,7 @@ Niño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial 
 
 ### C3S Niño 3.4
 
-This comparison uses a Niño 3.4 SST index derived directly from the [**Copernicus Climate Change Service (C3S) SST dataset**](https://cds.climate.copernicus.eu/datasets/satellite-ist-sst-global?tab=overview), using a fixed 1991–2020 climatology to compute the anomaly.
+This comparison uses a Niño 3.4 SST index derived directly from the **Copernicus Climate Change Service (C3S) SST dataset**, using a fixed 1991–2020 climatology to compute the anomaly.
 
 The C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator.
 
