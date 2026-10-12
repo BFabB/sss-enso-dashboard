@@ -24,9 +24,9 @@ This page is a scientific demonstrator. It shows how satellite sea surface salin
 
 ::: {.latest-box}
 **Latest situation**  
-The SSS-based indicator shows that the eastern edge of the western equatorial Pacific fresh pool is continuing to move eastward. It is now clearly farther east than during the 2023–2024 El Niño and has reached a position comparable to the strong 2015–2016 event.
+The SSS-based indicator shows that the eastern edge of the western equatorial Pacific fresh pool continued its rapid eastward displacement through September 2026. It is now about 10° of longitude — roughly 1,000 km — farther east than at the peak of the strong 2015–2016 El Niño.
 
-What is especially striking is the timing: in 2015–2016, a similar eastward extent was reached around December, near the usual seasonal peak of El Niño, whereas the ongoing event has already reached a similar position by August 2026. This points to a particularly rapid development of the salinity signal.
+The timing is particularly notable: this extent has been reached by September, several months earlier than the usual late-year seasonal maximum of El Niño conditions. This marks an unusually early and rapid eastward displacement of the fresh-pool boundary.
 
 This comparison should nevertheless be interpreted with appropriate caution.
 
