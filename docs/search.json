@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "update-log.html",
+    "href": "update-log.html",
+    "title": "Update log",
+    "section": "",
+    "text": "This page records monthly updates of the SSS-based ENSO demonstrator."
+  },
+  {
+    "objectID": "update-log.html#planned-monthly-update-content",
+    "href": "update-log.html#planned-monthly-update-content",
+    "title": "Update log",
+    "section": "Planned monthly update content",
+    "text": "Planned monthly update content\nEach monthly update should record:\n\nlatest SSS month available;\nCCI+SSS product version;\nlatest SSS-index value;\nchange since previous month;\nupdated figures;\nupdated animation;\nany methodological change."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dashboard: recent evolution",
@@ -102,20 +116,6 @@
     "href": "methods.html#uncertainty-and-limitations",
     "title": "Methods",
     "section": "Uncertainty and limitations",
-    "text": "Uncertainty and limitations\nSeveral methodological choices influence the index:\n\nthe salinity product version;\nthe selected latitude band;\nthe isohaline value;\nuncertainty in satellite retrievals;\ntreatment of near-real-time data;\ndefinition of thresholds.\n\nThe index should therefore be interpreted as a complementary indicator of ENSO-related salinity variability."
-  },
-  {
-    "objectID": "update-log.html",
-    "href": "update-log.html",
-    "title": "Update log",
-    "section": "",
-    "text": "This page records monthly updates of the SSS-based ENSO demonstrator."
-  },
-  {
-    "objectID": "update-log.html#planned-monthly-update-content",
-    "href": "update-log.html#planned-monthly-update-content",
-    "title": "Update log",
-    "section": "Planned monthly update content",
-    "text": "Planned monthly update content\nEach monthly update should record:\n\nlatest SSS month available;\nCCI+SSS product version;\nlatest SSS-index value;\nchange since previous month;\nupdated figures;\nupdated animation;\nany methodological change."
+    "text": "Uncertainty and limitations\nUncertainty of the S34.8 position. The shaded ranges shown in the S34.8 time series are estimated using 1,000 Monte Carlo realizations, in which satellite salinity values are perturbed according to assumed random measurement errors. The displayed limits correspond to the 1st and 99th percentiles of the successfully identified isohaline positions. These ranges characterize the sensitivity of the indicator to salinity errors under the adopted tracking procedure. They do not account for all possible sources of uncertainty, particularly ambiguity between multiple 34.8 crossings, which can occur near the western Pacific islands during strong La Niña conditions.\nFor the recent CATDS-derived extension, the assumed error amplitudes are estimated from historical CCI salinity errors where suitable product error estimates are unavailable.\nSeveral methodological choices influence the index:\n\nthe salinity product version;\nthe selected latitude band;\nthe isohaline value;\nuncertainty in satellite retrievals;\ntreatment of near-real-time data;\ndefinition of thresholds.\n\nThe index should therefore be interpreted as a complementary indicator of ENSO-related salinity variability."
   }
 ]

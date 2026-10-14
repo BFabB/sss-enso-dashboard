@@ -35,6 +35,10 @@ The C3S Niño 3.4 index is derived from SST anomalies in the Niño 3.4 region in
 
 ## Uncertainty and limitations
 
+**Uncertainty of the S34.8 position.** The shaded ranges shown in the S34.8 time series are estimated using 1,000 Monte Carlo realizations, in which satellite salinity values are perturbed according to assumed random measurement errors. The displayed limits correspond to the 1st and 99th percentiles of the successfully identified isohaline positions. These ranges characterize the sensitivity of the indicator to salinity errors under the adopted tracking procedure. They do not account for all possible sources of uncertainty, particularly ambiguity between multiple 34.8 crossings, which can occur near the western Pacific islands during strong La Niña conditions.
+
+For the recent CATDS-derived extension, the assumed error amplitudes are estimated from historical CCI salinity errors where suitable product error estimates are unavailable.
+
 Several methodological choices influence the index:
 
 - the salinity product version;

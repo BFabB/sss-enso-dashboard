@@ -151,6 +151,7 @@ A general-audience ESA web story presents the broader context of SMOS sea surfac
 - Jean-Luc Vergely — ACRI-ST
 - Laetitia Parc — ACRI-ST
 - Nicolas Kolodziejczyk — LOPS
+- Stéphane Tarot — IFREMER/CATDS
 
 ::: {.logo-row}
 <img src="assets/logos/ESA_Logo_DS.png" alt="ESA logo" class="logo-img logo-esa">
