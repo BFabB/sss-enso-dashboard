@@ -1,0 +1,66 @@
+{
+  "full_statistics": {
+    "correlation": 0.8174279154259317,
+    "count": 198
+  },
+  "matched_end": "2026-07-01",
+  "matched_start": "2010-02-01",
+  "matching": "exact timestamps only; no interpolation, shifting or averaging",
+  "product": {
+    "acquisition": {
+      "allow_regression": false,
+      "dataset_version": "HadISST (version not specified in source)",
+      "duplicate_policy": "reject",
+      "filename": "nino34_hadisst_1981_2010.csv",
+      "first_valid_date": "1870-01-01",
+      "label": "HadISST Ni\u00f1o-3.4 SST anomaly (1981\u20132010)",
+      "latest_valid_date": "2026-07-01",
+      "legacy_filename": "nino34.long.anom.csv",
+      "missing_policy": "omit explicit missing sentinels; reject invalid values",
+      "missing_values": [
+        -99.99
+      ],
+      "normalized_sha256": "948b8c15186582a615533b98cdd692c718c824206a8e8e5db54b1fdfa24a76a2",
+      "output": "/proju/smos/fbonjean/C3S/indices/nino34_hadisst_1981_2010.csv",
+      "parser": "year_matrix",
+      "product_id": "nino34_hadisst",
+      "provider": "NOAA PSL",
+      "raw_path": "/proju/smos/fbonjean/C3S/indices/noaa_raw/nino34_hadisst/20261019T170256903504Z-e2a90ca1.txt",
+      "raw_sha256": "46e501b91f624ef85b525d73fbb427f9d04d30411ba6e5c7cff579b35fb4ff01",
+      "reference_period": "1981-2010",
+      "retrieved_at": "2026-10-19T17:02:56.903504+00:00",
+      "schema_version": 1,
+      "source_format": "year_matrix",
+      "source_url": "https://psl.noaa.gov/data/timeseries/month/data/nino34.long.anom.data",
+      "temporal_support": "individual monthly mean",
+      "timestamp_convention": "first of represented calendar month",
+      "units": "degC",
+      "valid_count": 1879
+    },
+    "registry": {
+      "dataset_version": "HadISST (version not specified in source)",
+      "filename": "nino34_hadisst_1981_2010.csv",
+      "label": "HadISST Ni\u00f1o-3.4 SST anomaly (1981\u20132010)",
+      "legacy_filename": "nino34.long.anom.csv",
+      "missing_values": [
+        -99.99
+      ],
+      "parser": "year_matrix",
+      "product_id": "nino34_hadisst",
+      "provider": "NOAA PSL",
+      "reference_period": "1981-2010",
+      "source_url": "https://psl.noaa.gov/data/timeseries/month/data/nino34.long.anom.data",
+      "temporal_support": "individual monthly mean",
+      "timestamp_convention": "first of represented calendar month",
+      "units": "degC"
+    }
+  },
+  "recent_statistics": {
+    "correlation": 0.8174279154259317,
+    "count": 198
+  },
+  "reference_file": "/proju/smos/fbonjean/C3S/indices/.noaa-snapshots/nino34_hadisst/20261019T170256903504Z-e2a90ca1/data.csv",
+  "reference_identity": "nino34_hadisst_1981_2010",
+  "reference_label": "NOAA HadISST Ni\u00f1o-3.4 SST anomaly (\u00b0C; 1981\u20132010)",
+  "sss_end": "2026-09-01"
+}

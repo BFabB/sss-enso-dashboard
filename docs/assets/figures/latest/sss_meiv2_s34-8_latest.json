@@ -1,0 +1,66 @@
+{
+  "full_statistics": {
+    "correlation": 0.8498063891849,
+    "count": 200
+  },
+  "matched_end": "2026-09-01",
+  "matched_start": "2010-02-01",
+  "matching": "exact timestamps only; no interpolation, shifting or averaging",
+  "product": {
+    "acquisition": {
+      "allow_regression": false,
+      "dataset_version": "MEI.v2; JRA-3Q and NOAA OLR CDR v2.7",
+      "duplicate_policy": "reject",
+      "filename": "meiv2.csv",
+      "first_valid_date": "1979-01-01",
+      "label": "MEI.v2 (overlapping two-month seasons)",
+      "latest_valid_date": "2026-09-01",
+      "legacy_filename": null,
+      "missing_policy": "omit explicit missing sentinels; reject invalid values",
+      "missing_values": [
+        -999.0
+      ],
+      "normalized_sha256": "7c6dc1321b1ed2017fcf0ab5ee05eead3634fd7f477fb2c6dbb81e89da70b764",
+      "output": "/proju/smos/fbonjean/C3S/indices/meiv2.csv",
+      "parser": "year_matrix",
+      "product_id": "meiv2",
+      "provider": "NOAA PSL",
+      "raw_path": "/proju/smos/fbonjean/C3S/indices/noaa_raw/meiv2/20261019T170256366238Z-53392b49.txt",
+      "raw_sha256": "5bb93aa5564b125211a43b4b444b18937b65bc4f7e74fb0285416c0a8defb903",
+      "reference_period": "1980-2018",
+      "retrieved_at": "2026-10-19T17:02:56.366238+00:00",
+      "schema_version": 1,
+      "source_format": "year_matrix",
+      "source_url": "https://psl.noaa.gov/enso/mei/data/meiv2.data",
+      "temporal_support": "monthly output; overlapping two-month seasons",
+      "timestamp_convention": "first of ending month: DJ -> January 1, JF -> February 1",
+      "units": "dimensionless",
+      "valid_count": 573
+    },
+    "registry": {
+      "dataset_version": "MEI.v2; JRA-3Q and NOAA OLR CDR v2.7",
+      "filename": "meiv2.csv",
+      "label": "MEI.v2 (overlapping two-month seasons)",
+      "legacy_filename": null,
+      "missing_values": [
+        -999.0
+      ],
+      "parser": "year_matrix",
+      "product_id": "meiv2",
+      "provider": "NOAA PSL",
+      "reference_period": "1980-2018",
+      "source_url": "https://psl.noaa.gov/enso/mei/data/meiv2.data",
+      "temporal_support": "monthly output; overlapping two-month seasons",
+      "timestamp_convention": "first of ending month: DJ -> January 1, JF -> February 1",
+      "units": "dimensionless"
+    }
+  },
+  "recent_statistics": {
+    "correlation": 0.8498063891849,
+    "count": 200
+  },
+  "reference_file": "/proju/smos/fbonjean/C3S/indices/.noaa-snapshots/meiv2/20261019T170256366238Z-53392b49/data.csv",
+  "reference_identity": "meiv2",
+  "reference_label": "MEI.v2 (overlapping two-month seasons)",
+  "sss_end": "2026-09-01"
+}

@@ -39,21 +39,21 @@
     "href": "index.html#mei.v2",
     "title": "Dashboard: recent evolution",
     "section": "MEI.v2",
-    "text": "MEI.v2\nMEI.v2 is a multivariate ENSO index combining oceanic and atmospheric information. It provides a broad reference for coupled ENSO variability.\n\n\n\nComparison between the SSS-based indicator and MEI.v2."
+    "text": "MEI.v2\nMEI.v2 is the dedicated NOAA PSL multivariate ENSO product combining oceanic and atmospheric information. It represents overlapping two-month seasons, identified by their ending month. The latest value is September 2026, corresponding to August–September 2026. The Pearson correlation with S34.8 is 0.850 (n = 200).\n\n\n\nComparison between the SSS-based indicator and NOAA PSL MEI.v2 (overlapping two-month seasons)."
   },
   {
-    "objectID": "index.html#niño-3.4",
-    "href": "index.html#niño-3.4",
+    "objectID": "index.html#hadisst-niño-3.4",
+    "href": "index.html#hadisst-niño-3.4",
     "title": "Dashboard: recent evolution",
-    "section": "Niño 3.4",
-    "text": "Niño 3.4\nNiño 3.4 is a classical SST-based ENSO index in the central-eastern equatorial Pacific.\n\n\n\nComparison between the SSS-based indicator and Niño 3.4.\n\n\nData availability note: the NOAA Niño 3.4 series currently available here extends through 1 July 2026, so this comparison ends earlier than the MEI.v2 and RONI comparisons.\n\nC3S Niño 3.4\nThis comparison uses a Niño 3.4 SST index derived directly from the Copernicus Climate Change Service (C3S) SST dataset, using a fixed 1991–2020 climatology to compute the anomaly.\nThe C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator.\n\n\n\nComparison between the SSS-based indicator and the C3S-derived Niño 3.4 SST index."
+    "section": "HadISST Niño-3.4",
+    "text": "HadISST Niño-3.4\nThis NOAA PSL HadISST Niño-3.4 index measures SST anomalies in the central-eastern equatorial Pacific relative to 1981–2010. The latest observation is July 2026. The Pearson correlation with S34.8 is 0.817 (n = 198).\n\n\n\nComparison between the SSS-based indicator and NOAA PSL HadISST Niño-3.4 SST anomalies (1981–2010).\n\n\nData availability note: the HadISST Niño-3.4 comparison ends in July 2026. MEI.v2 extends through September 2026 (the August–September season), and monthly relative Niño-3.4 extends through September 2026. Dates identify the first day of the represented month or MEI.v2 ending month.\n\nC3S Niño-3.4\nThis comparison uses a Niño 3.4 SST index derived directly from the Copernicus Climate Change Service (C3S) SST dataset, using a fixed 1991–2020 climatology to compute the anomaly.\nThe C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator. This comparison uses twice-monthly sampling on the 1st and 15th and extends through September 2026. The latest September SST estimate is provisional. The Pearson correlation with S34.8 is 0.835 (n = 400).\n\n\n\nComparison between the SSS-based indicator and the C3S-derived Niño-3.4 SST index (1991–2020 climatology; twice-monthly sampling)."
   },
   {
-    "objectID": "index.html#roni",
-    "href": "index.html#roni",
+    "objectID": "index.html#monthly-relative-niño-3.4-ersstv6-19912020",
+    "href": "index.html#monthly-relative-niño-3.4-ersstv6-19912020",
     "title": "Dashboard: recent evolution",
-    "section": "RONI",
-    "text": "RONI\nRONI is a relative Niño 3.4 index designed to account for the broader tropical warming background.\n\n\n\nComparison between the SSS-based indicator and RONI."
+    "section": "Monthly relative Niño-3.4 (ERSSTv6, 1991–2020)",
+    "text": "Monthly relative Niño-3.4 (ERSSTv6, 1991–2020)\nThis NOAA CPC monthly relative Niño-3.4 product uses ERSSTv6 and a 1991–2020 reference period to account for the broader tropical warming background. These are individual monthly values, not a three-month running mean. The latest observation is September 2026. The Pearson correlation with S34.8 is 0.847 (n = 200).\n\n\n\nComparison between the SSS-based indicator and Monthly relative Niño-3.4 (ERSSTv6, 1991–2020)."
   },
   {
     "objectID": "index.html#full-period-sss-based-enso-indicator",
@@ -74,7 +74,7 @@
     "href": "acronyms.html",
     "title": "Acronyms",
     "section": "",
-    "text": "Acronym\nDefinition\n\n\n\n\nC3S\nCopernicus Climate Change Service\n\n\nCATDS\nCentre Aval de Traitement des Données SMOS\n\n\nCCI+SSS\nESA Climate Change Initiative Sea Surface Salinity project\n\n\nCDR\nClimate Data Record\n\n\nECMWF\nEuropean Centre for Medium-Range Weather Forecasts\n\n\nENSO\nEl Niño–Southern Oscillation\n\n\nESA\nEuropean Space Agency\n\n\nICDR\nInterim Climate Data Record\n\n\nMEI\nMultivariate ENSO Index\n\n\nNRT\nNear-real time\n\n\npss\nPractical Salinity Scale\n\n\nRONI\nRelative Oceanic Niño Index\n\n\nSMAP\nSoil Moisture Active Passive\n\n\nSMOS\nSoil Moisture and Ocean Salinity\n\n\nSSS\nSea Surface Salinity\n\n\nSST\nSea Surface Temperature"
+    "text": "Acronym\nDefinition\n\n\n\n\nC3S\nCopernicus Climate Change Service\n\n\nCATDS\nCentre Aval de Traitement des Données SMOS\n\n\nCCI+SSS\nESA Climate Change Initiative Sea Surface Salinity project\n\n\nCDR\nClimate Data Record\n\n\nECMWF\nEuropean Centre for Medium-Range Weather Forecasts\n\n\nENSO\nEl Niño–Southern Oscillation\n\n\nESA\nEuropean Space Agency\n\n\nICDR\nInterim Climate Data Record\n\n\nMEI\nMultivariate ENSO Index\n\n\nNRT\nNear-real time\n\n\npss\nPractical Salinity Scale\n\n\nSMAP\nSoil Moisture Active Passive\n\n\nSMOS\nSoil Moisture and Ocean Salinity\n\n\nSSS\nSea Surface Salinity\n\n\nSST\nSea Surface Temperature"
   },
   {
     "objectID": "methods.html",
@@ -109,7 +109,7 @@
     "href": "methods.html#comparison-indices",
     "title": "Methods",
     "section": "Comparison indices",
-    "text": "Comparison indices\nThe SSS-based index is compared with MEI.v2, NOAA Niño 3.4, a C3S-derived Niño 3.4 index, and RONI. Additional reference indicators may be considered as the analysis develops.\nThe C3S Niño 3.4 index is derived from SST anomalies in the Niño 3.4 region in the C3S combined sea surface and sea ice surface temperature dataset, using a fixed 1991–2020 climatology."
+    "text": "Comparison indices\nThe SSS-based index is compared with NOAA PSL MEI.v2, NOAA PSL HadISST Niño-3.4, a C3S-derived Niño 3.4 index, and Monthly relative Niño-3.4 (ERSSTv6, 1991–2020) from NOAA CPC. Additional reference indicators may be considered as the analysis develops.\nMEI.v2 represents overlapping two-month seasons, identified by their ending month, with a 1980–2018 reference period. The latest value is September 2026 (August–September 2026). HadISST Niño-3.4 uses monthly SST anomalies relative to 1981–2010 and extends through July 2026. Monthly relative Niño-3.4 uses ERSSTv6 with a 1991–2020 reference period and extends through September 2026; these are individual monthly values, not a three-month running mean.\nThe NOAA comparisons use the exact timestamp intersection with first-of-month S34.8 positions, starting on 1 February 2010. No interpolation, date shifting, or additional smoothing is applied. The matched comparisons end in September 2026 for MEI.v2 and monthly relative Niño-3.4 (200 samples each), and July 2026 for HadISST Niño-3.4 (198 samples). Their Pearson correlations with S34.8 are 0.850, 0.847, and 0.817, respectively.\nThe C3S Niño 3.4 index is derived from SST anomalies in the Niño 3.4 region in the C3S combined sea surface and sea ice surface temperature dataset, using a fixed 1991–2020 climatology. The C3S comparison uses twice-monthly sampling on the 1st and 15th and extends through September 2026 (Pearson correlation 0.835; n = 400). The latest September SST estimate is provisional."
   },
   {
     "objectID": "methods.html#uncertainty-and-limitations",

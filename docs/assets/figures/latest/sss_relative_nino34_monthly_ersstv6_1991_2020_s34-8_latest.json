@@ -1,0 +1,70 @@
+{
+  "full_statistics": {
+    "correlation": 0.8472474570524964,
+    "count": 200
+  },
+  "matched_end": "2026-09-01",
+  "matched_start": "2010-02-01",
+  "matching": "exact timestamps only; no interpolation, shifting or averaging",
+  "product": {
+    "acquisition": {
+      "allow_regression": false,
+      "dataset_version": "ERSSTv6",
+      "duplicate_policy": "reject",
+      "filename": "relative_nino34_monthly_ersstv6_1991_2020.csv",
+      "first_valid_date": "1949-12-01",
+      "label": "Monthly relative Ni\u00f1o-3.4 (ERSSTv6; 1991\u20132020)",
+      "latest_valid_date": "2026-09-01",
+      "legacy_filename": "roni.csv",
+      "missing_policy": "omit explicit missing sentinels; reject invalid values",
+      "missing_values": [
+        -99.0,
+        -999.0,
+        -9999.0
+      ],
+      "normalized_sha256": "22cc86d4233077d0a863981bf2c6091b76316758777eac4ef52449f81471a38f",
+      "output": "/proju/smos/fbonjean/C3S/indices/relative_nino34_monthly_ersstv6_1991_2020.csv",
+      "parser": "year_month_anomaly",
+      "product_id": "relative_nino34_monthly",
+      "provider": "NOAA CPC",
+      "raw_path": "/proju/smos/fbonjean/C3S/indices/noaa_raw/relative_nino34_monthly/20261019T170257570098Z-5b7c1e39.txt",
+      "raw_sha256": "a3a03f128f6d340199998c7b4dd0d6023d237008daf3e93e6e4a776f9a78a9db",
+      "reference_period": "1991-2020",
+      "retrieved_at": "2026-10-19T17:02:57.570098+00:00",
+      "schema_version": 1,
+      "source_format": "year_month_anomaly",
+      "source_url": "https://www.cpc.ncep.noaa.gov/data/indices/Rnino34.ascii.txt",
+      "temporal_support": "individual monthly value; no three-month mean",
+      "timestamp_convention": "first of represented calendar month",
+      "units": "degC",
+      "valid_count": 922
+    },
+    "registry": {
+      "dataset_version": "ERSSTv6",
+      "filename": "relative_nino34_monthly_ersstv6_1991_2020.csv",
+      "label": "Monthly relative Ni\u00f1o-3.4 (ERSSTv6; 1991\u20132020)",
+      "legacy_filename": "roni.csv",
+      "missing_values": [
+        -99.0,
+        -999.0,
+        -9999.0
+      ],
+      "parser": "year_month_anomaly",
+      "product_id": "relative_nino34_monthly",
+      "provider": "NOAA CPC",
+      "reference_period": "1991-2020",
+      "source_url": "https://www.cpc.ncep.noaa.gov/data/indices/Rnino34.ascii.txt",
+      "temporal_support": "individual monthly value; no three-month mean",
+      "timestamp_convention": "first of represented calendar month",
+      "units": "degC"
+    }
+  },
+  "recent_statistics": {
+    "correlation": 0.8472474570524964,
+    "count": 200
+  },
+  "reference_file": "/proju/smos/fbonjean/C3S/indices/.noaa-snapshots/relative_nino34_monthly/20261019T170257570098Z-5b7c1e39/data.csv",
+  "reference_identity": "relative_nino34_monthly_ersstv6_1991_2020",
+  "reference_label": "Monthly relative Ni\u00f1o-3.4 (ERSSTv6; 1991\u20132020) (\u00b0C)",
+  "sss_end": "2026-09-01"
+}
