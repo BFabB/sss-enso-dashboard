@@ -6,7 +6,7 @@ pagetitle: "Watching ENSO Through Sea Surface Salinity"
 ::: {.hero-text}
 ## Watching ENSO Through Sea Surface Salinity
 
-### A satellite salinity view of the developing 2026 El Niño
+### A satellite salinity view of the ongoing 2026–27 El Niño
 
 The displacement of the western Pacific fresh-pool edge provides an independent SSS-based view of El Niño/La Niña evolution.
 :::
@@ -24,11 +24,11 @@ This page is a scientific demonstrator. It shows how satellite sea surface salin
 
 ::: {.latest-box}
 **Latest situation**  
-The SSS-based indicator shows that the eastern edge of the western equatorial Pacific fresh pool continued its rapid eastward displacement through September 2026. It is now about 10° of longitude — roughly 1,000 km — farther east than at the peak of the strong 2015–2016 El Niño.
+The SSS-based indicator shows that the eastern edge of the western equatorial Pacific fresh pool continued its pronounced eastward displacement into October 2026. On 1 October, the tracked 34.8-pss isohaline reached 123.3°W, approximately 20° of longitude — or 2,200 km — farther east than its maximum observed position during the strong 2015–2016 El Niño.
 
-The timing is particularly notable: this extent has been reached by September, several months earlier than the usual late-year seasonal maximum of El Niño conditions. This marks an unusually early and rapid eastward displacement of the fresh-pool boundary.
+The timing is also notable. This eastward extent was already reached in early October, whereas the maximum during the 2015–2016 event occurred in December 2015. The comparison highlights the unusual evolution of the salinity-defined fresh-pool boundary during the ongoing 2026–27 El Niño.
 
-This comparison should nevertheless be interpreted with appropriate caution.
+These observations describe the displacement of the S34.8 boundary; they do not, by themselves, establish the relative strength or eventual peak of the 2026–27 El Niño event.
 
 ::: {.latest-meta}
 **Latest SSS data:** {{< var latest_sss_data >}}<br>
@@ -50,7 +50,7 @@ The dashboard below focuses on the most recent three years, ending with the late
 
 The curves below track the same 34.8-pss fresh-pool boundary (S34.8), aligned on a common event-relative seasonal cycle to compare the timing, speed and maximum observed eastward extent of its displacement.
 
-![Fresh-pool boundary trajectories during the 2009–10, 2015–16 and 2023–24 El Niños and the ongoing 2026 event. The 2009–10 and 2026 trajectories are truncated where observations are unavailable or not yet available.](assets/animations/s34p8_el_nino_event_trajectories_latest.gif?v={{< var asset_version >}}){fig-alt="Longitude of the S34.8 fresh-pool boundary across four El Niño events, with a shared seasonal cycle progressing upward and partial records for 2009–10 and 2026."}
+![Fresh-pool boundary trajectories during the 2009–10, 2015–16 and 2023–24 El Niños and the ongoing 2026–27 event. The 2009–10 and 2026–27 trajectories are truncated where observations are unavailable or not yet available.](assets/animations/s34p8_el_nino_event_trajectories_latest.gif?v={{< var asset_version >}}){fig-alt="Longitude of the S34.8 fresh-pool boundary across four El Niño events, with a shared seasonal cycle progressing upward and partial records for 2009–10 and 2026–27."}
 
 # Key message
 
@@ -77,31 +77,32 @@ The salinity-based indicator is compared below with widely used ENSO indicators.
 
 ## MEI.v2
 
-MEI.v2 is the dedicated NOAA PSL multivariate ENSO product combining oceanic and atmospheric information. It represents overlapping two-month seasons, identified by their ending month. The latest value is September 2026, corresponding to August–September 2026. The Pearson correlation with S34.8 is 0.850 (n = 200).
+MEI.v2 is the dedicated NOAA PSL multivariate ENSO product combining oceanic and atmospheric information. It represents overlapping two-month seasons, identified by their ending month. The latest value is October 2026, corresponding to September–October 2026. The Pearson correlation with S34.8 is 0.854 (n = 201).
 
-![Comparison between the SSS-based indicator and NOAA PSL MEI.v2 (overlapping two-month seasons).](assets/figures/latest/sss_meiv2_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA PSL MEI.v2, through August–September 2026."}
+![Comparison between the SSS-based indicator and NOAA PSL MEI.v2 (overlapping two-month seasons).](assets/figures/latest/sss_meiv2_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA PSL MEI.v2, through September–October 2026."}
 
 ## HadISST Niño-3.4
 
-This NOAA PSL HadISST Niño-3.4 index measures SST anomalies in the central-eastern equatorial Pacific relative to 1981–2010. The latest observation is July 2026. The Pearson correlation with S34.8 is 0.817 (n = 198).
+This NOAA PSL HadISST Niño-3.4 index measures SST anomalies in the central-eastern equatorial Pacific relative to 1981–2010. The latest observation is September 2026. The Pearson correlation with S34.8 is 0.832 (n = 200).
 
-![Comparison between the SSS-based indicator and NOAA PSL HadISST Niño-3.4 SST anomalies (1981–2010).](assets/figures/latest/sss_nino34_hadisst_1981_2010_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA PSL HadISST Niño-3.4 SST anomalies relative to 1981–2010, through July 2026."}
+![Comparison between the SSS-based indicator and NOAA PSL HadISST Niño-3.4 SST anomalies (1981–2010).](assets/figures/latest/sss_nino34_hadisst_1981_2010_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA PSL HadISST Niño-3.4 SST anomalies relative to 1981–2010, through September 2026."}
 
-**Data availability note:** the HadISST Niño-3.4 comparison ends in July 2026. MEI.v2 extends through September 2026 (the August–September season), and monthly relative Niño-3.4 extends through September 2026. Dates identify the first day of the represented month or MEI.v2 ending month.
+**Data availability note:** the HadISST Niño-3.4 comparison extends through September 2026. MEI.v2 extends through October 2026 (the September–October season), and monthly relative Niño-3.4 extends through October 2026. The C3S Niño-3.4 comparison also extends through 1 October 2026, with the latest SST estimate provisional. Dates identify the first day of the represented month or the MEI.v2 ending month.
 
 ### C3S Niño-3.4
 
+
 This comparison uses a Niño 3.4 SST index derived directly from the **Copernicus Climate Change Service (C3S) SST dataset**, using a fixed 1991–2020 climatology to compute the anomaly.
 
-The C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator. This comparison uses twice-monthly sampling on the 1st and 15th and extends through September 2026. The latest September SST estimate is provisional. The Pearson correlation with S34.8 is 0.835 (n = 400).
+The C3S-derived index provides a complementary SST-based reference for the SSS-based S34.8 indicator. This comparison uses twice-monthly sampling on the 1st and 15th and extends through 1 October 2026. The latest October SST estimate is provisional. The Pearson correlation with S34.8 is 0.844 (n = 402).
 
-![Comparison between the SSS-based indicator and the C3S-derived Niño-3.4 SST index (1991–2020 climatology; twice-monthly sampling).](assets/figures/latest/sss_c3s_nino34_1st15th_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based S34.8 indicator and C3S Niño-3.4 SST anomalies relative to 1991–2020, sampled on the 1st and 15th through September 2026; the latest September estimate is provisional."}
+![Comparison between the SSS-based indicator and the C3S-derived Niño-3.4 SST index (1991–2020 climatology; twice-monthly sampling).](assets/figures/latest/sss_c3s_nino34_1st15th_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based S34.8 indicator and C3S Niño-3.4 SST anomalies relative to 1991–2020, sampled on the 1st and 15th through 1 October 2026; the latest October estimate is provisional."}
 
 ## Monthly relative Niño-3.4 (ERSSTv6, 1991–2020)
 
-This NOAA CPC monthly relative Niño-3.4 product uses ERSSTv6 and a 1991–2020 reference period to account for the broader tropical warming background. These are individual monthly values, not a three-month running mean. The latest observation is September 2026. The Pearson correlation with S34.8 is 0.847 (n = 200).
+This NOAA CPC monthly relative Niño-3.4 product uses ERSSTv6 and a 1991–2020 reference period to account for the broader tropical warming background. These are individual monthly values, not a three-month running mean. The latest observation is October 2026. The Pearson correlation with S34.8 is 0.851 (n = 201).
 
-![Comparison between the SSS-based indicator and Monthly relative Niño-3.4 (ERSSTv6, 1991–2020).](assets/figures/latest/sss_relative_nino34_monthly_ersstv6_1991_2020_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA CPC monthly relative Niño-3.4 (ERSSTv6, 1991–2020), using individual monthly values through September 2026."}
+![Comparison between the SSS-based indicator and Monthly relative Niño-3.4 (ERSSTv6, 1991–2020).](assets/figures/latest/sss_relative_nino34_monthly_ersstv6_1991_2020_s34-8_latest.png?v={{< var asset_version >}}){fig-alt="Comparison between the SSS-based ENSO indicator and NOAA CPC monthly relative Niño-3.4 (ERSSTv6, 1991–2020), using individual monthly values through October 2026."}
 
 # Additional diagnostics
 
